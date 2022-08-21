@@ -1,9 +1,19 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Quartz
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
+Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
----
-## Custom Styling
-I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid future conflict when updating the template.
+1. Extremely fast full-text search by pressing `Ctrl` + `k`
+2. Customizable and hackable design based on Hugo
+3. Automatically generated backlinks, link previews, and local graph
+4. Built-in CJK + Latex Support
+5. Support for both Markdown Links and Wikilinks
+
+Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+
+🔗 Get Started: https://quartz.jzhao.xyz/
+
+![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
